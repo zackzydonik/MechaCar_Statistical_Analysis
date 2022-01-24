@@ -20,13 +20,13 @@ As shown by the tables below, the current manufacturing data meets the design sp
 
 The PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch. The PSI for lots 1 & 2 are not statistically different from the population mean, whereas the PSI for lot 3 is. This is clearly shown by the p-values in the tables below.
 
-[image_name](Resources/4.png)
+![image_name](Resources/4.png)
 
-[image_name](Resources/5.png)
+![image_name](Resources/5.png)
 
-[image_name](Resources/6.png)
+![image_name](Resources/6.png)
 
-[image_name](Resources/7.png)
+![image_name](Resources/7.png)
 
 ## Study Design: MechaCar vs Competition
 
